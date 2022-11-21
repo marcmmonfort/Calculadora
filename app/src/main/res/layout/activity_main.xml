@@ -190,8 +190,8 @@
         android:layout_marginTop="20dp"
         android:layout_marginEnd="66dp"
         android:backgroundTint="#020B37"
-        android:text="TAN"
-        android:textSize="16dp"
+        android:text=")"
+        android:textSize="20sp"
         app:cornerRadius="35dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/Results" />
@@ -216,8 +216,8 @@
         android:layout_height="70dp"
         android:layout_marginTop="20dp"
         android:backgroundTint="#020B37"
-        android:text="SIN"
-        android:textSize="16dp"
+        android:text="."
+        android:textSize="20sp"
         app:cornerRadius="35dp"
         app:layout_constraintEnd_toStartOf="@+id/ButtonCosinus"
         app:layout_constraintTop_toBottomOf="@+id/Results" />
@@ -228,8 +228,8 @@
         android:layout_height="70dp"
         android:layout_marginTop="20dp"
         android:backgroundTint="#020B37"
-        android:text="COS"
-        android:textSize="16dp"
+        android:text="("
+        android:textSize="20sp"
         app:cornerRadius="35dp"
         app:layout_constraintEnd_toStartOf="@+id/ButtonTangent"
         app:layout_constraintTop_toBottomOf="@+id/Results" />
